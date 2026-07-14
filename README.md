@@ -6,6 +6,7 @@ An interactive Power BI Dashboard built using SQL (PostgreSQL), Power Query, and
 To develop a comprehensive Credit Card Financial Dashboard that helps monitor customer behavior, transaction trends, revenue performance, and other key business metrics for better decision-making.
 
 🚀 Features
+
 Interactive Power BI Dashboard
 Customer Dashboard
 Transaction Dashboard
