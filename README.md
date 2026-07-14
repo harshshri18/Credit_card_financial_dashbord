@@ -8,8 +8,11 @@ To develop a comprehensive Credit Card Financial Dashboard that helps monitor cu
 🚀 Features
 
 Interactive Power BI Dashboard
+
 Customer Dashboard
+
 Transaction Dashboard
+
 Weekly Revenue Analysis
 Customer Segmentation
 Card Category Analysis
